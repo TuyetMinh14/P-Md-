@@ -1,2 +1,7 @@
 __pycache__/
-.myenv/
+myenv/
+client_secret_656301047665-mfmrge49l2vm2dvvprmasc75nnnrlm78.apps.googleusercontent.com.json
+credentials.json
+parking_test_place_api_2024_06_17_source_gcs_test_db_parking_place_api.csv
+simplified_json_generated_data_vn_units.json
+token.json
